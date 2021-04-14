@@ -1,2 +1,2 @@
 # Dash-app-plotly-
-testing only
+Interactive dash app for gapminder data
